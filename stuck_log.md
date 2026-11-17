@@ -14,3 +14,9 @@
 - Caveat: low-income tracts near campus likely reflect student populations, and ACS margins of error can exceed 50% of the estimate
 
 - Spot check: 7 of 15 known coffee places found in OSM after broadening tags. Category alone is not a reliable competitor definition, so define a flag in SQL.
+
+## 2026-11-17
+- Problem: Q10 ranked rural tracts (001200, 001501) as the top coffee opportunities
+- Cause: raw population rewards large land area; 001200 is 64 sq mi at 96 people/sq mi
+- Fix: score on population density instead of raw population
+- Lesson: cross-check model output against a second query (Q6) before trusting it
