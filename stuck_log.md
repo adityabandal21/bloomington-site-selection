@@ -20,3 +20,20 @@
 - Cause: raw population rewards large land area; 001200 is 64 sq mi at 96 people/sq mi
 - Fix: score on population density instead of raw population
 - Lesson: cross-check model output against a second query (Q6) before trusting it
+
+## 2026-11-21 (Excel)
+- Problem: Excel formula error "The syntax of this name isn't correct"
+- Cause: macOS smart quotes turned " into curly quotes
+- Fix: turned off "Use smart quotes and dashes" in System Settings > Keyboard > Text Input
+
+- Problem: typed structured references like [@pop] failed
+- Fix: built formulas by clicking cells instead (=IFERROR(B2/H2,0))
+
+- Problem: dragging the fill handle overwrote 5 columns in opportunity_scores
+- Fix: Data > Refresh All reloaded the table from the CSV (the Power Query refresh test, passed by accident)
+
+- Problem: chart plotted geoid as a data series (bars at 1.8E+10)
+- Cause: geoid stored as a number, so Excel treated it as values
+- Fix: Select Data, removed geoid series, set it as axis labels
+
+- Reconciled: Excel matches SQL for Q3 (29 coffee shops), Q4, Q5 (same 7 tracts) and Q6. Only difference: Excel shows 0 where SQL shows NULL for tracts with no coffee shops
