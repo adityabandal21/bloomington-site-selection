@@ -1,0 +1,284 @@
+osm_id,name,category,is_coffee,geoid
+471951774,The Trojan Horse,restaurant,false,18105000100
+471951775,Uptown Cafe,restaurant,false,18105000100
+668770696,Subway,fast_food,false,18105000401
+668770697,Buffalo Wild Wings,restaurant,false,18105000401
+668770698,Cloverleaf Restaurant,restaurant,false,18105000501
+677752482,El Ranchero,restaurant,false,18105001305
+838089287,The Chocolate Moose,restaurant,false,18105000100
+955949811,The Village Inn,restaurant,false,18105001305
+980002913,Subway,fast_food,false,18105001301
+980002914,Casa Brava,restaurant,false,18105001301
+983924490,Subway,fast_food,false,18105001303
+983924501,PizzaExpress,restaurant,false,18105001303
+1041181556,Papa John's,fast_food,false,18105001305
+1059468834,Starbucks,cafe,true,18105001301
+1059468850,Penn Station,fast_food,false,18105001301
+1209468893,The Inkwell Bakery & Cafe,cafe,true,18105000302
+1209628267,Campus Cafe,cafe,true,18105000202
+1311898393,Brightside Cafe,cafe,true,18105000100
+1321232774,El Ranchero,restaurant,false,18105000501
+1562708595,Dat's,restaurant,false,18105000100
+1562708597,Chomp,restaurant,false,18105000100
+1678886394,Sweet Grass Restaurant,restaurant,false,18105000301
+1678886500,Angel B's,bakery,false,18105000301
+1690329769,,ice_cream,false,18105001103
+1851064824,Bangkok Thai Cuisine,restaurant,false,18105000904
+1885605541,Soma Coffee House and Juice Bar,cafe,true,18105000302
+1885605547,Dragon Express,restaurant,false,18105000302
+2698930597,The Pour House,cafe,true,18105000100
+2753880838,Noodles & Company,restaurant,false,18105000100
+2760033897,Falafels,restaurant,false,18105000100
+2760035011,Chow Bar,restaurant,false,18105000100
+2760035013,Japonee Express,restaurant,false,18105000100
+2760035014,Starbucks,cafe,true,18105000100
+2760035031,Five Guys,fast_food,false,18105000100
+2790773430,Jimmy John's,fast_food,false,18105000100
+2795682551,Mama's Restaurant,restaurant,false,18105000903
+2864218726,Qdoba,fast_food,false,18105000100
+3003503468,Raising Cane's,fast_food,false,18105000100
+3372159993,Soma,cafe,true,18105000301
+3391432714,Starbucks,cafe,true,18105000903
+3595098093,IHOP,restaurant,false,18105000901
+3603529501,CoCo Fresh Tea & Juice,cafe,true,18105000100
+3649228947,Shah's Halal Food,fast_food,false,18105000903
+3803010040,Cresent Donuts,fast_food,false,18105000601
+3803010041,Hinkle's Hamburgers,fast_food,false,18105000601
+3803010047,Viva Mas,restaurant,false,18105000901
+4418368635,Cheshire Cafe,cafe,true,18105001600
+5577008976,Aver's Pizza,restaurant,false,18105000904
+5577008978,,restaurant,false,18105000904
+5624629019,Feast Market & Cellar,restaurant,false,18105000301
+5754954598,Planet Fitness,fitness_centre,false,18105000501
+5754954602,Dragon,restaurant,false,18105000501
+6006179540,Best Taste,restaurant,false,18105000100
+6018293982,Cup & Kettle Tea Co.,tea,false,18105000100
+6106623166,Hive,restaurant,false,18105000903
+6276695802,Subway,fast_food,false,18105000202
+6276695803,Pizza X,fast_food,false,18105000202
+6276695804,Mura Sushi,restaurant,false,18105000202
+6276789585,,cafe,true,18105001600
+6276789586,Campus Cafe,cafe,true,18105000202
+6276793324,Campus Cafe,cafe,true,18105000202
+6360675807,Hartzell's Ice Cream,restaurant,false,18105000100
+6360680291,Bapu,cafe,true,18105000100
+6399809981,Bloomington Bagel Co.,fast_food,false,18105000904
+6412870158,Japonee Express,restaurant,false,18105000100
+6468254286,El Rey Azteca,restaurant,false,18105000100
+6737151619,Lennie's,restaurant,false,18105000100
+6914595830,Aver's Pizza,restaurant,false,18105001101
+6914595831,Subway,fast_food,false,18105001101
+6914595832,Cloverleaf,restaurant,false,18105001101
+7206705908,Subway,fast_food,false,18105000801
+7288883467,Yogi's Bar & Grill,restaurant,false,18105000100
+7409370068,Crumble Coffee and Bakery,cafe,true,18105000100
+7472496573,Naughty Dog,fast_food,false,18105001301
+7472496574,Square Donuts,fast_food,false,18105001301
+7826582528,McDonald's,fast_food,false,18105001305
+8909699153,Americano,cafe,true,18105001303
+9099337142,Jimmy John's,fast_food,false,18105000901
+9099337145,Asuka Steakhouse & Sushu,restaurant,false,18105000901
+9099337146,DeAngelo's,restaurant,false,18105000901
+9099337149,Noodles & Company,restaurant,false,18105000901
+9099337150,McAlister's Deli,restaurant,false,18105000901
+9099337154,Domino's,fast_food,false,18105000901
+9545505831,Rainbow Bakery,bakery,false,18105000100
+9545610476,,restaurant,false,18105000301
+9594388410,Sugar and Spice,cafe,true,18105000202
+9604142042,Bloomington Bagel Company,bakery,false,18105000302
+10019233463,Buccetto's Pizza Pasta,restaurant,false,18105000903
+10085863037,Z & C Teriyaki & Sushi,restaurant,false,18105000100
+10085863047,Do Asian Fusion,restaurant,false,18105000100
+10085863072,Inbloom Eats,fast_food,false,18105000100
+10085863074,Da Vinci Pizza & Pasta,restaurant,false,18105000100
+10085863075,Lan Ramen & Aqua Tea,restaurant,false,18105000100
+10553787251,Bloomington Bagel Company,restaurant,false,18105000100
+10553787252,Coaches Bar & Grill,restaurant,false,18105000100
+10553787253,Soul + Juice,restaurant,false,18105000100
+10553787268,Rockit's Famous Pizza,restaurant,false,18105000100
+10553787270,Amrit India,restaurant,false,18105000100
+10553787286,Homey Hot Pot,restaurant,false,18105000100
+10583023869,Square Donuts,fast_food,false,18105001600
+10583023878,Rocky's Pizza,restaurant,false,18105000602
+10583023885,La Bonita Restaurant & Market,restaurant,false,18105000602
+10608697976,Verona Coffeehouse,coffee,true,18105001002
+11033624987,Oasis Chinese,restaurant,false,18105000903
+11033624989,Lotus Pilates,fitness_centre,false,18105000903
+11033624991,Jersey Mike's Subs,fast_food,false,18105000903
+11033624992,Wings Xtreme U,restaurant,false,18105000903
+11221353123,Subway,fast_food,false,18105001103
+11221353125,China Wok,fast_food,false,18105001103
+11221353127,Baldy's pizzaria,restaurant,false,18105001103
+11399386149,Gables Bagels,restaurant,false,18105000100
+11399386151,Rush Hour Station,restaurant,false,18105000100
+11564773140,Avers Pizza (North),restaurant,false,18105000801
+11991804369,K-Bap,restaurant,false,18105000100
+12437789502,Btown Gyros,restaurant,false,18105000100
+12565914501,Taco Bell Cantina,fast_food,false,18105000901
+13156996900,Malibu Grill,restaurant,false,18105000100
+13287908967,The Hot Room Bloomington,fitness_centre,false,18105000904
+13305497782,Farm Bloomington,restaurant,false,18105000100
+13307514663,Goodfellas,fast_food,false,18105000100
+13735828302,Soma Coffehouse and Juice Bar,cafe,true,18105000100
+13735828303,Wingstop,fast_food,false,18105000904
+13759495845,,fast_food,false,18105000601
+13812163616,Starbucks,cafe,true,18105000201
+13854727590,Rice N Spice,restaurant,false,18105000202
+14155456636,Domino's Pizza,restaurant,false,18105001102
+14156694701,Dave's Hot Chicken,fast_food,false,18105000100
+29550035,Five Guys,fast_food,false,18105000904
+77362919,Red Robin,restaurant,false,18105000904
+104949418,Wendy's,fast_food,false,18105000901
+154762707,Intercollegiate Athletics Gymnasium,fitness_centre,false,18105000802
+154762714,John Mellencamp Pavilion,fitness_centre,false,18105000201
+154762727,Student Recreational Sports Center,fitness_centre,false,18105000201
+174411499,Toto's Uncle Cafe,restaurant,false,18105000904
+244867406,Mother Bear's Pizza,restaurant,false,18105000302
+270361091,Bloomington Bagel Company,restaurant,false,18105000100
+270361098,Soma Coffeehouse And Juice Bar,cafe,true,18105000100
+271048689,Chipotle,fast_food,false,18105000100
+271373574,Red Restaurant,restaurant,false,18105001600
+274898765,Red Lobster,restaurant,false,18105000901
+274901610,Dunkin',fast_food,false,18105000901
+274901611,Fazoli's,fast_food,false,18105000904
+282513997,McDonald's,fast_food,false,18105000903
+282513998,Chili's,restaurant,false,18105000903
+282513999,Arby's,fast_food,false,18105000903
+282514007,Burger King,fast_food,false,18105000904
+282514022,Dave & Buster's,restaurant,false,18105000904
+282514023,LongHorn Steakhouse,restaurant,false,18105000904
+282521321,,restaurant,false,18105000904
+282521869,Chick-fil-A,fast_food,false,18105000904
+282527730,Steak 'n Shake,fast_food,false,18105000501
+282534010,Hardee's,fast_food,false,18105000501
+282534011,Bob Evans,restaurant,false,18105000501
+282534012,Outback Steakhouse,restaurant,false,18105000501
+282534013,Chipotle,fast_food,false,18105000501
+282534016,Arby's,fast_food,false,18105001301
+282534017,My Thai Cafe & Sushi Bar,restaurant,false,18105001301
+282534029,White Castle,fast_food,false,18105001301
+282534030,Wendy's,fast_food,false,18105001301
+282534034,Olive Garden,restaurant,false,18105001301
+282534038,O'Charley's,restaurant,false,18105001301
+282534043,Cracker Barrel,restaurant,false,18105001301
+282534045,Mother Bear's Pizza West,restaurant,false,18105001301
+282540142,Burger King,fast_food,false,18105001301
+282540145,Taco Bell,fast_food,false,18105001301
+282540148,KFC,fast_food,false,18105001301
+282540157,Long John Silver's,fast_food,false,18105000501
+282540175,Bucceto's Pizza & Pasta,restaurant,false,18105000501
+282540203,McDonald's,fast_food,false,18105000602
+282540211,Pizza Hut,restaurant,false,18105000602
+282540226,Texas Roadhouse,restaurant,false,18105000602
+282540229,Domo Steak & Sushi,restaurant,false,18105000602
+282544285,McDonald's,fast_food,false,18105000801
+282544294,Lincoln Square Pancake House,restaurant,false,18105001600
+282562753,Janko's Little Zagreb,restaurant,false,18105000100
+302747081,Taco Bell,fast_food,false,18105000100
+313436312,Upland Brewing Company,restaurant,false,18105001600
+376923727,Lucky Express,restaurant,false,18105000100
+376923728,Turkuaz Cafe,restaurant,false,18105000100
+378333212,Runcible Spoon,restaurant,false,18105000100
+378334330,King Gyros,fast_food,false,18105001101
+426719858,Pizza Pantry,restaurant,false,18105001303
+426719874,Don Chuy Mexican Restaurant,restaurant,false,18105001305
+426719880,Domino's,fast_food,false,18105001303
+426719896,,restaurant,false,18105001305
+426719897,Jiffy Treat,ice_cream,false,18105001305
+426916386,Taco Bell,fast_food,false,18105001305
+426916388,Arby's,fast_food,false,18105001305
+427162973,Wee Willie's,restaurant,false,18105001303
+469322440,The Elm Restaurant,restaurant,false,18105000301
+472484588,Jimmy John's,fast_food,false,18105000202
+477190176,BJ's,restaurant,false,18105000904
+477190180,Panera Bread,fast_food,false,18105000904
+480041778,Taqueria Acapulco,restaurant,false,18105000100
+480041779,The Inkwell,cafe,true,18105000100
+480041780,The Tap,restaurant,false,18105000100
+480041782,Crazy Horse,restaurant,false,18105000100
+516192871,The Owlery Restaurant,restaurant,false,18105000100
+522289025,Sofra Cafe,restaurant,false,18105000100
+556382859,Monroe County YMCA - NW,fitness_centre,false,18105001301
+556926916,,fitness_centre,false,18105001101
+556926921,Starbucks,cafe,true,18105001101
+556926922,McDonald's,fast_food,false,18105001101
+557428297,Cheddar's,restaurant,false,18105000602
+559350174,Wendy's,fast_food,false,18105001103
+562372912,Happy Thai Restaurant,restaurant,false,18105000301
+566822862,Taco Bell,fast_food,false,18105001101
+567091385,Hopscotch Coffee,cafe,true,18105000301
+567095587,Bedrak Cafe,restaurant,false,18105000100
+568352699,Burger King,fast_food,false,18105001101
+570383682,Smokin' Jack's Rib Shack,restaurant,false,18105000601
+576895045,YMCA Fieldhouse,fitness_centre,false,18105001001
+579317910,Dairy Queen,fast_food,false,18105001101
+579317915,Pizza X,restaurant,false,18105001101
+579317947,Rally's,fast_food,false,18105000301
+589024436,Hoosier Heights Bloomington,fitness_centre,false,18105000401
+631128053,Sunny Poke & Tea,restaurant,false,18105000302
+639120284,Blooming Thai,restaurant,false,18105000100
+639120286,Longfei Chinese Restaurant,restaurant,false,18105000100
+639120289,Korea Restaurant,restaurant,false,18105000100
+644919407,Domino's,fast_food,false,18105000100
+644919417,Papa John's,fast_food,false,18105000100
+644919418,Kalao,restaurant,false,18105000100
+644919467,Two Sticks Bakery,bakery,false,18105000100
+699314360,Village Deli,restaurant,false,18105000100
+699314364,Big Woods Bloomington,restaurant,false,18105000100
+702032775,Wendy's,fast_food,false,18105000301
+702032781,Siam House,restaurant,false,18105000100
+702032782,A Little Downtown Café,cafe,true,18105000100
+702032786,Taste of India,restaurant,false,18105000100
+702177704,Cafe Bali,restaurant,false,18105000100
+702177707,Healthy Hoosiers,restaurant,false,18105000100
+702177764,Juannita's Restaurant,restaurant,false,18105000601
+745157575,Gourmet Garden,restaurant,false,18105000100
+798991009,Freddy's,fast_food,false,18105000501
+812660835,Sushi Bar Bloomington,restaurant,false,18105000201
+837449361,Kimu Asian Restaurant,restaurant,false,18105000100
+837449362,Anyetsang's Little Tibet Restaurant,restaurant,false,18105000100
+866681630,El Ranchero,restaurant,false,18105001102
+887712909,Mr. Hibachi Buffet,restaurant,false,18105000904
+896860029,BuffaLouie's,restaurant,false,18105000100
+904437582,3 Amigos Taqueria,restaurant,false,18105000401
+905070134,Bub's Burgers and Ice Cream,restaurant,false,18105000100
+911646338,Domino's,fast_food,false,18105001600
+983941507,Restaurant Ami,restaurant,false,18105000302
+997159759,Morgenstern's Bookstore & Café,books,false,18105000904
+997542044,C3 Bar,restaurant,false,18105001001
+997542046,Crumble Coffee and Bakery,cafe,true,18105001001
+997605666,Feta,restaurant,false,18105001101
+1014071619,Scenic View Restaurant,restaurant,false,18105001403
+1014209955,Cozy Table,restaurant,false,18105000602
+1014213969,Truffles Fine Cuisine & 56 Degrees Bar,restaurant,false,18105000904
+1014224948,La Charreada,restaurant,false,18105001600
+1014225220,La Una Cantina,restaurant,false,18105000100
+1014226172,Le Petit Cafe,restaurant,false,18105000100
+1014230425,Samira Restaurant,restaurant,false,18105000100
+1014255761,Pizza X,restaurant,false,18105000801
+1014256105,Pizza X,restaurant,false,18105000601
+1014282187,Bruster's Ice Cream,ice_cream,false,18105000903
+1014565084,Kids Play Gym,fitness_centre,false,18105000501
+1021196167,,restaurant,false,18105000601
+1031511987,Culver's,fast_food,false,18105000601
+1032055354,Smokeworks,restaurant,false,18105000100
+1043586092,Chipotle,fast_food,false,18105000904
+1043586093,Applebee's,restaurant,false,18105000904
+1043586095,Anytime Fitness,fitness_centre,false,18105000904
+1043586097,Azzip Pizza,restaurant,false,18105000904
+1043777974,Luca Pizza di Roma,fast_food,false,18105000904
+1043777976,Chick-fil-A,fast_food,false,18105000904
+1043777977,Tropical Smoothie Cafe,fast_food,false,18105000904
+1043777978,Stir Fry 88,restaurant,false,18105000904
+1043777979,Subway,fast_food,false,18105000904
+1043777982,Judy's Kitchen,restaurant,false,18105000904
+1043780584,Auntie Anne's,fast_food,false,18105000904
+1043782929,Orangetheory Fitness,fitness_centre,false,18105000904
+1043782932,Pure Barre,fitness_centre,false,18105000904
+1044297838,Divine Transformations Fitness Studio,fitness_centre,false,18105000903
+1044297846,Jiffy Treat,ice_cream,false,18105000903
+1044297849,Needmore Coffee Roasters,cafe,true,18105000903
+1131862671,Social Cantina,restaurant,false,18105000100
+1146780887,Starbucks,cafe,true,18105001303
+1173197975,Che Bello,restaurant,false,18105000100
+1336632691,Jimmy John's,fast_food,false,18105001305
