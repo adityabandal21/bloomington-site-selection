@@ -67,6 +67,16 @@ python notebooks/run_sql.py sql/04_export.sql
 
 The Excel check is in `bloomington_check.xlsx`: a pivot table and XLOOKUP reproduce Q3 (29 coffee shops), formulas reproduce Q4 and Q6, and conditional formatting reproduces Q5 (the same 7 tracts). OpenStreetMap data changes over time, so a fresh pull may give slightly different counts.
 
+## 7. Power BI dashboard
+
+The same analysis is rebuilt as an interactive Power BI report. Power Query loads the three clean CSVs straight from this repo, and a star schema links them on `geoid`: `tracts` at the center, `poi_tract` (one to many) and `opportunity_scores` (one to one). DAX measures (`Total Population`, `Coffee Shops`, `Residents per Coffee Shop`, `Land Sq Mi`, `Density`) replace the SQL aggregations.
+
+![Power BI overview page](images/powerbi_overview.png)
+
+A second page validates the model against SQL: 29 coffee shops in total, 383.8 residents per coffee shop downtown and 14,932 people per square mile in the densest tract, matching Q3, Q4 and Q6 exactly.
+
+![Power BI validation page](images/powerbi_validation.png)
+
 ## Tools
 
-SQL (DuckDB with the spatial extension), Python for data loading, Excel (Power Query, PivotTables, XLOOKUP, conditional formatting), Git.
+SQL (DuckDB with the spatial extension), Python for data loading, Excel (Power Query, PivotTables, XLOOKUP, conditional formatting), Power BI (Power Query, data modeling, DAX), Git.
